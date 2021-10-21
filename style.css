@@ -70,3 +70,6 @@ h2{
 #lona {
     margin-top: 75px
 }
+img: hover  {
+    transform: scale(0.9);
+}
